@@ -144,8 +144,8 @@ section .tc .tcTitle i:nth-child(3){
     right: 0;
 }
 section .tc .tcTitle p{
-    font-size: 1.15rem;
-    line-height: 1.2rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
 }
 section .tc span{
     display: block;
@@ -182,7 +182,7 @@ footer div .footerTitle i:nth-child(3){
     right: 0;
 }
 footer div .footerTitle span{
-    font-size: 1.15rem;
+    font-size: 1.5rem;
 }
 footer div p{
     font-size: 1.1rem;
