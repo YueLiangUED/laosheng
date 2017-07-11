@@ -1,0 +1,189 @@
+header{
+    margin-bottom: 1.25rem;
+    width: 37.5rem;
+    height: 18.75rem;
+    background: url("../images/headerBg.png") center no-repeat;
+    background-size: cover;
+}
+section .content{
+    box-sizing: border-box;
+    margin: 0 auto 1rem;
+    padding-top: 1.25rem;
+    width: 33.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    background-color: #ffebf5;
+}
+section .content.one{
+    padding: 1.25rem 1.5rem 1.75rem;
+    height: 15.4rem;
+}
+section .content span{
+    display: block;
+    margin: 0 auto 1.25rem;
+    width: 8.6rem;
+    height: 2.4rem;
+    background: url("../images/tiaojian.png") center no-repeat;
+    background-size: cover;
+}
+section .content.one p{
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    text-indent: 2.4rem;
+    text-align: justify;
+    color: #333333;
+}
+section .content.one p i{
+    font-style: normal;
+    color: #ff0000;
+}
+section .content.two{
+    height: 12.9rem;
+}
+section .content.two span{
+    height: 2.35rem;
+    background: url("../images/laosheng.png") center no-repeat;
+    background-size: cover;
+}
+section .content.two div{
+    position: relative;
+    margin: 0 auto;
+    width: 29.15rem;
+    height: 5.9rem;
+    border-radius: 1rem;
+    background-color: #ffffff;
+}
+section .content.two div i{
+    position: absolute;
+    left: 4.15rem;
+    top:0;
+    bottom: 0;
+    margin: auto;
+    display: inline-block;
+    width: 1.6rem;
+    height: 2.5rem;
+    background: url("../images/phoneIcon.png") center no-repeat;
+    background-size: cover;
+    z-index: 22;
+}
+section .content.two div input{
+    position: absolute;
+    left: 3.1rem;
+    top: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    margin: auto;
+    padding-left: 6.15rem;
+    width: 23rem;
+    height: 3.4rem;
+    font-size: 1.8rem;
+    color: #333333;
+    border: none;
+    border-bottom: 2px solid #adadad;
+}
+section .content.two p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+    color: #e40077;
+}
+section .button{
+    margin: 0 auto;
+    width: 14.7rem;
+    height: 3.2rem;
+    font-size: 1.7rem;
+    text-align: center;
+    color: #ffffff;
+    border-radius: .5rem;
+    background-color: #e40077;
+}
+section .button span{
+    line-height: 3.2rem;
+}
+section .buttonBox{
+    display: none;
+    margin: 0 auto;
+    width: 33.5rem;
+}
+section .buttonBox span{
+    display: inline-block;
+    width: 14.7rem;
+    height: 3.2rem;
+    font-size: 1.7rem;
+    line-height: 3.2rem;
+    text-align: center;
+    color: #ffffff;
+    border-radius: .5rem;
+    background-color: #e40077;
+}
+section .buttonBox span:first-child{
+    margin-right: 4.1rem;
+}
+section .tc .tcTitle{
+    position: relative;
+    margin: 2rem auto 0.5rem;
+    width: 16.9rem;
+    text-align: center;
+    color: #333333;;
+}
+section .tc .tcTitle i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: inline-block;
+    width: 1.2rem;
+    height: 2px;
+    background-color: #333333;
+}
+section .tc .tcTitle i:nth-child(1){
+    left: 0;
+}
+section .tc .tcTitle i:nth-child(3){
+    right: 0;
+}
+section .tc .tcTitle p{
+    font-size: 1.15rem;
+    line-height: 1.2rem;
+}
+section .tc span{
+    display: block;
+    margin: 0 auto;
+    width: 35rem;
+    height: 35.95rem;
+    background: url("../images/table.png") center no-repeat;
+    background-size: cover;
+}
+footer>div{
+    padding: 0 2rem 1.25rem;
+}
+footer div .footerTitle{
+    position: relative;
+    box-sizing: border-box;
+    margin: 1.3rem auto .5rem;
+    width: 11.9rem;
+    text-align: center;
+}
+footer div .footerTitle i{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    display: inline-block;
+    width: 1.2rem;
+    height: 2px;
+    background-color: #333333;
+}
+footer div .footerTitle i:nth-child(1){
+    left: 0;
+}
+footer div .footerTitle i:nth-child(3){
+    right: 0;
+}
+footer div .footerTitle span{
+    font-size: 1.15rem;
+}
+footer div p{
+    font-size: 1.1rem;
+    text-align: justify;
+    color: #666666;
+}
