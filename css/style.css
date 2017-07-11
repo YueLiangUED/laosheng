@@ -79,6 +79,8 @@ section .content.two div input{
     font-size: 1.8rem;
     color: #333333;
     border: none;
+    -webkit-appearance: none;
+    border-radius: 0;
     border-bottom: 2px solid #adadad;
 }
 section .content.two p{
